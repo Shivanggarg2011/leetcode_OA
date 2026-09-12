@@ -1,0 +1,379 @@
+[
+  {
+    "id": "merge-triplets-to-form-target-triplet",
+    "title": "Merge Triplets to Form Target Triplet",
+    "difficulty": "Medium",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "Apple",
+      "Pinterest",
+      "Meta",
+      "Visa"
+    ],
+    "order": 231,
+    "isExisting": false
+  },
+  {
+    "id": "valid-parenthesis-string",
+    "title": "Valid Parenthesis String",
+    "difficulty": "Medium",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "Snap",
+      "Walmart Labs",
+      "Bloomberg",
+      "Cisco"
+    ],
+    "order": 232,
+    "isExisting": false
+  },
+  {
+    "id": "candy",
+    "title": "Candy",
+    "difficulty": "Hard",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "Spotify",
+      "Twitter"
+    ],
+    "order": 233,
+    "isExisting": false
+  },
+  {
+    "id": "lemonade-change",
+    "title": "Lemonade Change",
+    "difficulty": "Easy",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "Airbnb",
+      "Bloomberg",
+      "Uber"
+    ],
+    "order": 234,
+    "isExisting": false
+  },
+  {
+    "id": "assign-cookies",
+    "title": "Assign Cookies",
+    "difficulty": "Easy",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "Atlassian",
+      "PayPal"
+    ],
+    "order": 235,
+    "isExisting": false
+  },
+  {
+    "id": "queue-reconstruction-by-height",
+    "title": "Queue Reconstruction by Height",
+    "difficulty": "Medium",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Two Sigma",
+      "Bloomberg"
+    ],
+    "order": 236,
+    "isExisting": false
+  },
+  {
+    "id": "jump-game-iii",
+    "title": "Jump Game III",
+    "difficulty": "Medium",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "LinkedIn",
+      "Microsoft"
+    ],
+    "order": 237,
+    "isExisting": false
+  },
+  {
+    "id": "non-overlapping-intervals",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "Microsoft",
+      "Airbnb",
+      "LinkedIn"
+    ],
+    "order": 238,
+    "isExisting": false
+  },
+  {
+    "id": "partition-labels",
+    "title": "Partition Labels",
+    "difficulty": "Medium",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "LinkedIn",
+      "Salesforce",
+      "Visa",
+      "DoorDash"
+    ],
+    "order": 239,
+    "isExisting": false
+  },
+  {
+    "id": "minimum-number-of-arrows-to-burst-balloons",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "difficulty": "Medium",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "Microsoft",
+      "Snap",
+      "ByteDance"
+    ],
+    "order": 240,
+    "isExisting": false
+  },
+  {
+    "id": "two-city-scheduling",
+    "title": "Two City Scheduling",
+    "difficulty": "Medium",
+    "topics": [
+      "Greedy"
+    ],
+    "companies": [
+      "Uber",
+      "Apple",
+      "Goldman Sachs",
+      "LinkedIn"
+    ],
+    "order": 241,
+    "isExisting": false
+  },
+  {
+    "id": "merge-intervals",
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "Google",
+      "DoorDash",
+      "ByteDance",
+      "Amazon"
+    ],
+    "order": 242,
+    "isExisting": false
+  },
+  {
+    "id": "insert-interval",
+    "title": "Insert Interval",
+    "difficulty": "Medium",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "Snap",
+      "Meta"
+    ],
+    "order": 243,
+    "isExisting": false
+  },
+  {
+    "id": "meeting-rooms",
+    "title": "Meeting Rooms",
+    "difficulty": "Easy",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "Microsoft",
+      "Walmart Labs",
+      "LinkedIn"
+    ],
+    "order": 244,
+    "isExisting": false
+  },
+  {
+    "id": "meeting-rooms-ii",
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "Uber",
+      "DoorDash",
+      "Amazon"
+    ],
+    "order": 245,
+    "isExisting": false
+  },
+  {
+    "id": "interval-list-intersections",
+    "title": "Interval List Intersections",
+    "difficulty": "Medium",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "Microsoft",
+      "Two Sigma"
+    ],
+    "order": 246,
+    "isExisting": false
+  },
+  {
+    "id": "my-calendar-i",
+    "title": "My Calendar I",
+    "difficulty": "Medium",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "Twitter",
+      "Spotify",
+      "Google",
+      "Adobe"
+    ],
+    "order": 247,
+    "isExisting": false
+  },
+  {
+    "id": "employee-free-time",
+    "title": "Employee Free Time",
+    "difficulty": "Hard",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "Apple",
+      "Uber"
+    ],
+    "order": 248,
+    "isExisting": false
+  },
+  {
+    "id": "car-pooling",
+    "title": "Car Pooling",
+    "difficulty": "Medium",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "Adobe",
+      "Apple",
+      "Twitter"
+    ],
+    "order": 249,
+    "isExisting": false
+  },
+  {
+    "id": "minimum-interval-to-include-each-query",
+    "title": "Minimum Interval to Include Each Query",
+    "difficulty": "Hard",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "Amazon",
+      "Uber",
+      "Airbnb"
+    ],
+    "order": 250,
+    "isExisting": false
+  },
+  {
+    "id": "remove-covered-intervals",
+    "title": "Remove Covered Intervals",
+    "difficulty": "Medium",
+    "topics": [
+      "Intervals"
+    ],
+    "companies": [
+      "eBay",
+      "Microsoft",
+      "Bloomberg",
+      "Two Sigma"
+    ],
+    "order": 251,
+    "isExisting": false
+  },
+  {
+    "id": "rotate-image",
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "topics": [
+      "Math & Geometry"
+    ],
+    "companies": [
+      "Uber",
+      "Bloomberg",
+      "Google"
+    ],
+    "order": 252,
+    "isExisting": false
+  },
+  {
+    "id": "spiral-matrix",
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "topics": [
+      "Math & Geometry"
+    ],
+    "companies": [
+      "LinkedIn",
+      "Meta"
+    ],
+    "order": 253,
+    "isExisting": false
+  },
+  {
+    "id": "spiral-matrix-ii",
+    "title": "Spiral Matrix II",
+    "difficulty": "Medium",
+    "topics": [
+      "Math & Geometry"
+    ],
+    "companies": [
+      "Bloomberg",
+      "Uber",
+      "Microsoft"
+    ],
+    "order": 254,
+    "isExisting": false
+  },
+  {
+    "id": "reshape-the-matrix",
+    "title": "Reshape the Matrix",
+    "difficulty": "Easy",
+    "topics": [
+      "Math & Geometry"
+    ],
+    "companies": [
+      "Yahoo",
+      "Cisco",
+      "LinkedIn",
+      "PayPal"
+    ],
+    "order": 255,
+    "isExisting": false
+  }
+]

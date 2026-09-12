@@ -1,0 +1,380 @@
+[
+  {
+    "id": "swap-nodes-in-pairs",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "Medium",
+    "topics": [
+      "Linked List"
+    ],
+    "companies": [
+      "Google",
+      "Visa",
+      "ByteDance",
+      "Goldman Sachs"
+    ],
+    "order": 105,
+    "isExisting": false
+  },
+  {
+    "id": "rotate-list",
+    "title": "Rotate List",
+    "difficulty": "Medium",
+    "topics": [
+      "Linked List"
+    ],
+    "companies": [
+      "Bloomberg",
+      "Adobe",
+      "Uber"
+    ],
+    "order": 106,
+    "isExisting": false
+  },
+  {
+    "id": "maximum-depth-of-binary-tree",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Microsoft",
+      "Visa"
+    ],
+    "order": 107,
+    "isExisting": false
+  },
+  {
+    "id": "same-tree",
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Uber",
+      "Amazon",
+      "Oracle",
+      "Bloomberg"
+    ],
+    "order": 108,
+    "isExisting": false
+  },
+  {
+    "id": "invert-binary-tree",
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Apple",
+      "Cisco",
+      "Uber",
+      "Twitter"
+    ],
+    "order": 109,
+    "isExisting": false
+  },
+  {
+    "id": "subtree-of-another-tree",
+    "title": "Subtree of Another Tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Adobe",
+      "Snap"
+    ],
+    "order": 110,
+    "isExisting": false
+  },
+  {
+    "id": "binary-tree-level-order-traversal",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Salesforce",
+      "PayPal"
+    ],
+    "order": 111,
+    "isExisting": false
+  },
+  {
+    "id": "binary-tree-zigzag-level-order-traversal",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "eBay",
+      "Two Sigma",
+      "Goldman Sachs",
+      "Amazon"
+    ],
+    "order": 112,
+    "isExisting": false
+  },
+  {
+    "id": "binary-tree-right-side-view",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Salesforce",
+      "Pinterest",
+      "Google"
+    ],
+    "order": 113,
+    "isExisting": false
+  },
+  {
+    "id": "count-good-nodes-in-binary-tree",
+    "title": "Count Good Nodes in Binary Tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Spotify",
+      "Meta"
+    ],
+    "order": 114,
+    "isExisting": false
+  },
+  {
+    "id": "validate-binary-search-tree",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Microsoft",
+      "Amazon",
+      "Uber",
+      "Google"
+    ],
+    "order": 115,
+    "isExisting": false
+  },
+  {
+    "id": "kth-smallest-element-in-a-bst",
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Pinterest",
+      "Amazon"
+    ],
+    "order": 116,
+    "isExisting": false
+  },
+  {
+    "id": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Meta",
+      "ByteDance",
+      "Pinterest"
+    ],
+    "order": 117,
+    "isExisting": false
+  },
+  {
+    "id": "binary-tree-maximum-path-sum",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Meta",
+      "Pinterest"
+    ],
+    "order": 118,
+    "isExisting": false
+  },
+  {
+    "id": "serialize-and-deserialize-binary-tree",
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "Hard",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Yahoo",
+      "Microsoft",
+      "PayPal",
+      "Snap"
+    ],
+    "order": 119,
+    "isExisting": false
+  },
+  {
+    "id": "lowest-common-ancestor-of-a-binary-search-tree",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Salesforce",
+      "Amazon",
+      "Yahoo"
+    ],
+    "order": 120,
+    "isExisting": false
+  },
+  {
+    "id": "lowest-common-ancestor-of-a-binary-tree",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Airbnb",
+      "DoorDash"
+    ],
+    "order": 121,
+    "isExisting": false
+  },
+  {
+    "id": "balanced-binary-tree",
+    "title": "Balanced Binary Tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Meta",
+      "Uber",
+      "LinkedIn"
+    ],
+    "order": 122,
+    "isExisting": false
+  },
+  {
+    "id": "diameter-of-binary-tree",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Visa",
+      "Uber"
+    ],
+    "order": 123,
+    "isExisting": false
+  },
+  {
+    "id": "symmetric-tree",
+    "title": "Symmetric Tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Amazon",
+      "Salesforce",
+      "Microsoft",
+      "Apple"
+    ],
+    "order": 124,
+    "isExisting": false
+  },
+  {
+    "id": "path-sum",
+    "title": "Path Sum",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Amazon",
+      "Uber",
+      "Goldman Sachs",
+      "DoorDash"
+    ],
+    "order": 125,
+    "isExisting": false
+  },
+  {
+    "id": "path-sum-ii",
+    "title": "Path Sum II",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Apple",
+      "Bloomberg",
+      "LinkedIn"
+    ],
+    "order": 126,
+    "isExisting": false
+  },
+  {
+    "id": "flatten-binary-tree-to-linked-list",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "Medium",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Adobe",
+      "Google",
+      "Two Sigma"
+    ],
+    "order": 127,
+    "isExisting": false
+  },
+  {
+    "id": "binary-tree-inorder-traversal",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Amazon",
+      "Snap",
+      "Google",
+      "Twitter"
+    ],
+    "order": 128,
+    "isExisting": false
+  },
+  {
+    "id": "binary-tree-preorder-traversal",
+    "title": "Binary Tree Preorder Traversal",
+    "difficulty": "Easy",
+    "topics": [
+      "Trees"
+    ],
+    "companies": [
+      "Netflix",
+      "Uber",
+      "Salesforce"
+    ],
+    "order": 129,
+    "isExisting": false
+  }
+]

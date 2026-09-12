@@ -1,0 +1,371 @@
+[
+  {
+    "id": "remove-element",
+    "title": "Remove Element",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Microsoft",
+      "eBay",
+      "Uber"
+    ],
+    "order": 27,
+    "isExisting": false
+  },
+  {
+    "id": "plus-one",
+    "title": "Plus One",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Uber",
+      "Snap",
+      "PayPal"
+    ],
+    "order": 28,
+    "isExisting": false
+  },
+  {
+    "id": "pascal-s-triangle",
+    "title": "Pascal's Triangle",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Microsoft",
+      "Salesforce",
+      "LinkedIn",
+      "Pinterest"
+    ],
+    "order": 29,
+    "isExisting": false
+  },
+  {
+    "id": "first-missing-positive",
+    "title": "First Missing Positive",
+    "difficulty": "Hard",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "LinkedIn",
+      "Apple",
+      "Pinterest",
+      "Uber"
+    ],
+    "order": 30,
+    "isExisting": false
+  },
+  {
+    "id": "set-matrix-zeroes",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Apple",
+      "Google",
+      "Salesforce"
+    ],
+    "order": 31,
+    "isExisting": false
+  },
+  {
+    "id": "valid-palindrome",
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Two Sigma",
+      "PayPal",
+      "Meta",
+      "Atlassian"
+    ],
+    "order": 32,
+    "isExisting": false
+  },
+  {
+    "id": "3sum",
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Atlassian",
+      "Microsoft"
+    ],
+    "order": 33,
+    "isExisting": false
+  },
+  {
+    "id": "3sum-closest",
+    "title": "3Sum Closest",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Snap",
+      "Airbnb"
+    ],
+    "order": 34,
+    "isExisting": false
+  },
+  {
+    "id": "4sum",
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Microsoft",
+      "Apple",
+      "Yahoo",
+      "Cisco"
+    ],
+    "order": 35,
+    "isExisting": false
+  },
+  {
+    "id": "container-with-most-water",
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Amazon",
+      "Google"
+    ],
+    "order": 36,
+    "isExisting": false
+  },
+  {
+    "id": "trapping-rain-water",
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Airbnb",
+      "Uber"
+    ],
+    "order": 37,
+    "isExisting": false
+  },
+  {
+    "id": "sort-array-by-parity",
+    "title": "Sort Array By Parity",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Apple",
+      "PayPal"
+    ],
+    "order": 38,
+    "isExisting": false
+  },
+  {
+    "id": "remove-duplicates-from-sorted-array-ii",
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Meta",
+      "Netflix",
+      "Amazon"
+    ],
+    "order": 39,
+    "isExisting": false
+  },
+  {
+    "id": "backspace-string-compare",
+    "title": "Backspace String Compare",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Microsoft",
+      "Amazon"
+    ],
+    "order": 40,
+    "isExisting": false
+  },
+  {
+    "id": "squares-of-a-sorted-array",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Visa",
+      "Bloomberg"
+    ],
+    "order": 41,
+    "isExisting": false
+  },
+  {
+    "id": "reverse-string",
+    "title": "Reverse String",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Microsoft",
+      "eBay",
+      "Walmart Labs"
+    ],
+    "order": 42,
+    "isExisting": false
+  },
+  {
+    "id": "boats-to-save-people",
+    "title": "Boats to Save People",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Cisco",
+      "Oracle",
+      "ByteDance"
+    ],
+    "order": 43,
+    "isExisting": false
+  },
+  {
+    "id": "two-sum-ii-input-array-is-sorted",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "DoorDash",
+      "Meta"
+    ],
+    "order": 44,
+    "isExisting": false
+  },
+  {
+    "id": "is-subsequence",
+    "title": "Is Subsequence",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "Google",
+      "Spotify",
+      "eBay"
+    ],
+    "order": 45,
+    "isExisting": false
+  },
+  {
+    "id": "reverse-vowels-of-a-string",
+    "title": "Reverse Vowels of a String",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers"
+    ],
+    "companies": [
+      "LinkedIn",
+      "Twitter",
+      "Microsoft"
+    ],
+    "order": 46,
+    "isExisting": false
+  },
+  {
+    "id": "longest-substring-without-repeating-characters",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Twitter",
+      "Google"
+    ],
+    "order": 47,
+    "isExisting": false
+  },
+  {
+    "id": "longest-repeating-character-replacement",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "LinkedIn",
+      "Yahoo",
+      "Apple",
+      "Meta"
+    ],
+    "order": 48,
+    "isExisting": false
+  },
+  {
+    "id": "permutation-in-string",
+    "title": "Permutation in String",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Yahoo",
+      "LinkedIn",
+      "Bloomberg"
+    ],
+    "order": 49,
+    "isExisting": false
+  },
+  {
+    "id": "minimum-window-substring",
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Pinterest",
+      "Two Sigma"
+    ],
+    "order": 50,
+    "isExisting": false
+  },
+  {
+    "id": "sliding-window-maximum",
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Visa",
+      "LinkedIn"
+    ],
+    "order": 51,
+    "isExisting": false
+  }
+]

@@ -1,0 +1,15 @@
+services:
+  piston:
+    image: ghcr.io/engineer-man/piston
+    container_name: piston_api
+    restart: always
+    privileged: true # required: Piston's isolate sandbox needs cgroups/namespaces
+    ports:
+      - "2000:2000"
+    volumes:
+      - piston_packages:/piston/packages
+    tmpfs:
+      - /piston/jobs:exec
+
+volumes:
+  piston_packages:

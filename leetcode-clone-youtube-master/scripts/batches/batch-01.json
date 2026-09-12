@@ -1,0 +1,378 @@
+[
+  {
+    "id": "contains-duplicate",
+    "title": "Contains Duplicate",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Netflix",
+      "Atlassian",
+      "Microsoft"
+    ],
+    "order": 2,
+    "isExisting": false
+  },
+  {
+    "id": "valid-anagram",
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Microsoft",
+      "Walmart Labs",
+      "Two Sigma",
+      "eBay"
+    ],
+    "order": 3,
+    "isExisting": false
+  },
+  {
+    "id": "group-anagrams",
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Meta",
+      "Bloomberg",
+      "Cisco",
+      "Atlassian"
+    ],
+    "order": 4,
+    "isExisting": false
+  },
+  {
+    "id": "top-k-frequent-elements",
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Amazon",
+      "Microsoft"
+    ],
+    "order": 5,
+    "isExisting": false
+  },
+  {
+    "id": "product-of-array-except-self",
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "eBay",
+      "Apple"
+    ],
+    "order": 6,
+    "isExisting": false
+  },
+  {
+    "id": "longest-consecutive-sequence",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Google",
+      "Oracle",
+      "Uber"
+    ],
+    "order": 7,
+    "isExisting": false
+  },
+  {
+    "id": "encode-and-decode-strings",
+    "title": "Encode and Decode Strings",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Amazon",
+      "Apple"
+    ],
+    "order": 8,
+    "isExisting": false
+  },
+  {
+    "id": "valid-sudoku",
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Cisco",
+      "DoorDash",
+      "ByteDance"
+    ],
+    "order": 9,
+    "isExisting": false
+  },
+  {
+    "id": "majority-element",
+    "title": "Majority Element",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "DoorDash",
+      "Uber",
+      "eBay"
+    ],
+    "order": 10,
+    "isExisting": false
+  },
+  {
+    "id": "missing-number",
+    "title": "Missing Number",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Netflix",
+      "Walmart Labs",
+      "Cisco",
+      "Snap"
+    ],
+    "order": 11,
+    "isExisting": false
+  },
+  {
+    "id": "find-all-numbers-disappeared-in-an-array",
+    "title": "Find All Numbers Disappeared in an Array",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Airbnb",
+      "Snap"
+    ],
+    "order": 12,
+    "isExisting": false
+  },
+  {
+    "id": "single-number",
+    "title": "Single Number",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Bloomberg",
+      "PayPal",
+      "LinkedIn",
+      "Oracle"
+    ],
+    "order": 13,
+    "isExisting": false
+  },
+  {
+    "id": "single-number-ii",
+    "title": "Single Number II",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Microsoft",
+      "Uber",
+      "Salesforce"
+    ],
+    "order": 14,
+    "isExisting": false
+  },
+  {
+    "id": "single-number-iii",
+    "title": "Single Number III",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Amazon",
+      "Meta"
+    ],
+    "order": 15,
+    "isExisting": false
+  },
+  {
+    "id": "intersection-of-two-arrays",
+    "title": "Intersection of Two Arrays",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "DoorDash",
+      "Uber",
+      "LinkedIn",
+      "Meta"
+    ],
+    "order": 16,
+    "isExisting": false
+  },
+  {
+    "id": "intersection-of-two-arrays-ii",
+    "title": "Intersection of Two Arrays II",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Amazon",
+      "Uber"
+    ],
+    "order": 17,
+    "isExisting": false
+  },
+  {
+    "id": "sort-colors",
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Spotify",
+      "Yahoo",
+      "Bloomberg",
+      "Meta"
+    ],
+    "order": 18,
+    "isExisting": false
+  },
+  {
+    "id": "move-zeroes",
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Pinterest",
+      "Airbnb",
+      "Google",
+      "Spotify"
+    ],
+    "order": 19,
+    "isExisting": false
+  },
+  {
+    "id": "rotate-array",
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Amazon",
+      "LinkedIn",
+      "Meta",
+      "Bloomberg"
+    ],
+    "order": 20,
+    "isExisting": false
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "PayPal",
+      "Apple"
+    ],
+    "order": 21,
+    "isExisting": false
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock-ii",
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Apple",
+      "Snap"
+    ],
+    "order": 22,
+    "isExisting": false
+  },
+  {
+    "id": "subarray-sum-equals-k",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Uber",
+      "Netflix",
+      "LinkedIn"
+    ],
+    "order": 23,
+    "isExisting": false
+  },
+  {
+    "id": "continuous-subarray-sum",
+    "title": "Continuous Subarray Sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Atlassian",
+      "Microsoft"
+    ],
+    "order": 24,
+    "isExisting": false
+  },
+  {
+    "id": "merge-sorted-array",
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Airbnb",
+      "Apple",
+      "Microsoft",
+      "Goldman Sachs"
+    ],
+    "order": 25,
+    "isExisting": false
+  },
+  {
+    "id": "remove-duplicates-from-sorted-array",
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "topics": [
+      "Array & Hashing"
+    ],
+    "companies": [
+      "Uber",
+      "DoorDash",
+      "Google",
+      "Netflix"
+    ],
+    "order": 26,
+    "isExisting": false
+  }
+]

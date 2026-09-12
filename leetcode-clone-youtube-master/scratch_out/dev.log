@@ -1,0 +1,205 @@
+
+> leetcode-yt@0.1.0 dev
+> next dev
+
+[32mready[39m - started server on 0.0.0.0:3000, url: http://localhost:3000
+[36minfo[39m  - Loaded env from C:\leetcode_maker\leetcode-clone-youtube-master\.env.local
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[35mevent[39m - compiled client and server successfully in 1825 ms (183 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 125 ms (145 modules)
+[36mwait[39m  - compiling / (client and server)...
+[35mevent[39m - compiled client and server successfully in 1209 ms (955 modules)
+[36mwait[39m  - compiling /problems/[pid]...
+[35mevent[39m - compiled client and server successfully in 496 ms (1025 modules)
+Expectation Violation: Duplicate atom key "authModalState". This is a FATAL ERROR in
+      production. But it is safe to ignore this warning if it occurred because of
+      hot module replacement.
+    at expectationViolation [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:671:19[90m)[39m
+    at checkForDuplicateAtomKey [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:752:9[90m)[39m
+    at registerNode [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:763:5[90m)[39m
+    at baseAtom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8347:16[90m)[39m
+    at atom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8399:12[90m)[39m
+    at eval (webpack-internal:///./src/atoms/authModalAtom.ts:12:68)
+    at ./src/atoms/authModalAtom.ts [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:209:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./src/components/Topbar/Topbar.tsx:18:78)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./src/components/Topbar/Topbar.tsx:1:21)
+    at ./src/components/Topbar/Topbar.tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:253:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./pages/problems/[pid].tsx:10:83)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./pages/problems/[pid].tsx:1:21)
+    at ./pages/problems/[pid].tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:198:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at __webpack_exec__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:4276:39[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:4277:28
+    at Object.<anonymous> [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:4280:3[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1830:14)[39m
+[90m    at Object..js (node:internal/modules/cjs/loader:1961:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1553:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1355:12)[39m
+[90m    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1576:12)[39m
+[90m    at require (node:internal/modules/helpers:153:16)[39m
+    at Object.requirePage [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\require.js:88:12[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:73
+    at async Object.loadComponentsImpl [as loadComponents] [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:26[90m)[39m
+    at async DevServer.findPageComponentsImpl [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\next-server.js:600:36[90m)[39m
+[36mwait[39m  - compiling /auth...
+[35mevent[39m - compiled client and server successfully in 333 ms (1018 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 221 ms (283 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 186 ms (283 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 169 ms (283 modules)
+Expectation Violation: Duplicate atom key "authModalState". This is a FATAL ERROR in
+      production. But it is safe to ignore this warning if it occurred because of
+      hot module replacement.
+    at expectationViolation [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:671:19[90m)[39m
+    at checkForDuplicateAtomKey [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:752:9[90m)[39m
+    at registerNode [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:763:5[90m)[39m
+    at baseAtom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8347:16[90m)[39m
+    at atom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8399:12[90m)[39m
+    at eval (webpack-internal:///./src/atoms/authModalAtom.ts:12:68)
+    at ./src/atoms/authModalAtom.ts [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:176:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./src/components/AuthModal/AuthModal.tsx:8:78)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./src/components/AuthModal/AuthModal.tsx:1:21)
+    at ./src/components/AuthModal/AuthModal.tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:187:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./pages/auth.tsx:8:89)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./pages/auth.tsx:1:21)
+    at ./pages/auth.tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:165:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at __webpack_exec__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:580:39[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:581:28
+    at Object.<anonymous> [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:584:3[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1830:14)[39m
+[90m    at Object..js (node:internal/modules/cjs/loader:1961:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1553:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1355:12)[39m
+[90m    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1576:12)[39m
+[90m    at require (node:internal/modules/helpers:153:16)[39m
+    at Object.requirePage [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\require.js:88:12[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:73
+    at async Object.loadComponentsImpl [as loadComponents] [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:26[90m)[39m
+    at async DevServer.findPageComponentsImpl [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\next-server.js:600:36[90m)[39m
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 174 ms (283 modules)
+Expectation Violation: Duplicate atom key "authModalState". This is a FATAL ERROR in
+      production. But it is safe to ignore this warning if it occurred because of
+      hot module replacement.
+    at expectationViolation [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:671:19[90m)[39m
+    at checkForDuplicateAtomKey [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:752:9[90m)[39m
+    at registerNode [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:763:5[90m)[39m
+    at baseAtom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8347:16[90m)[39m
+    at atom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8399:12[90m)[39m
+    at eval (webpack-internal:///./src/atoms/authModalAtom.ts:12:68)
+    at ./src/atoms/authModalAtom.ts [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:176:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./src/components/AuthModal/AuthModal.tsx:8:78)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./src/components/AuthModal/AuthModal.tsx:1:21)
+    at ./src/components/AuthModal/AuthModal.tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:187:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./pages/auth.tsx:8:89)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./pages/auth.tsx:1:21)
+    at ./pages/auth.tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:165:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at __webpack_exec__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:580:39[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:581:28
+    at Object.<anonymous> [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\auth.js:584:3[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1830:14)[39m
+[90m    at Object..js (node:internal/modules/cjs/loader:1961:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1553:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1355:12)[39m
+[90m    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1576:12)[39m
+[90m    at require (node:internal/modules/helpers:153:16)[39m
+    at Object.requirePage [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\require.js:88:12[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:73
+    at async Object.loadComponentsImpl [as loadComponents] [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:26[90m)[39m
+    at async DevServer.findPageComponentsImpl [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\next-server.js:600:36[90m)[39m
+[36mwait[39m  - compiling /problems/[pid] (client and server)...
+[35mevent[39m - compiled client and server successfully in 143 ms (1018 modules)
+Expectation Violation: Duplicate atom key "authModalState". This is a FATAL ERROR in
+      production. But it is safe to ignore this warning if it occurred because of
+      hot module replacement.
+    at expectationViolation [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:671:19[90m)[39m
+    at checkForDuplicateAtomKey [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:752:9[90m)[39m
+    at registerNode [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:763:5[90m)[39m
+    at baseAtom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8347:16[90m)[39m
+    at atom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8399:12[90m)[39m
+    at eval (webpack-internal:///./src/atoms/authModalAtom.ts:12:68)
+    at ./src/atoms/authModalAtom.ts [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:209:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./src/components/Topbar/Topbar.tsx:18:78)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./src/components/Topbar/Topbar.tsx:1:21)
+    at ./src/components/Topbar/Topbar.tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:253:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./pages/problems/[pid].tsx:10:83)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./pages/problems/[pid].tsx:1:21)
+    at ./pages/problems/[pid].tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:198:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at __webpack_exec__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:4276:39[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:4277:28
+    at Object.<anonymous> [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\problems\[pid].js:4280:3[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1830:14)[39m
+[90m    at Object..js (node:internal/modules/cjs/loader:1961:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1553:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1355:12)[39m
+[90m    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1576:12)[39m
+[90m    at require (node:internal/modules/helpers:153:16)[39m
+    at Object.requirePage [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\require.js:88:12[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:73
+    at async Object.loadComponentsImpl [as loadComponents] [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:26[90m)[39m
+    at async DevServer.findPageComponentsImpl [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\next-server.js:600:36[90m)[39m
+[36mwait[39m  - compiling / (client and server)...
+[35mevent[39m - compiled client and server successfully in 263 ms (1025 modules)
+Expectation Violation: Duplicate atom key "authModalState". This is a FATAL ERROR in
+      production. But it is safe to ignore this warning if it occurred because of
+      hot module replacement.
+    at expectationViolation [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:671:19[90m)[39m
+    at checkForDuplicateAtomKey [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:752:9[90m)[39m
+    at registerNode [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:763:5[90m)[39m
+    at baseAtom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8347:16[90m)[39m
+    at atom [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mrecoil[24m\cjs\index.js:8399:12[90m)[39m
+    at eval (webpack-internal:///./src/atoms/authModalAtom.ts:12:68)
+    at ./src/atoms/authModalAtom.ts [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\index.js:209:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./src/components/Topbar/Topbar.tsx:18:78)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./src/components/Topbar/Topbar.tsx:1:21)
+    at ./src/components/Topbar/Topbar.tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\index.js:253:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at eval (webpack-internal:///./pages/index.tsx:9:83)
+    at __webpack_require__.a [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:97:13[90m)[39m
+    at eval (webpack-internal:///./pages/index.tsx:1:21)
+    at ./pages/index.tsx [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\index.js:198:1[90m)[39m
+    at __webpack_require__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\webpack-runtime.js:33:42[90m)[39m
+    at __webpack_exec__ [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\index.js:4056:39[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\index.js:4057:28
+    at Object.<anonymous> [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39m.next\server\pages\index.js:4060:3[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1830:14)[39m
+[90m    at Object..js (node:internal/modules/cjs/loader:1961:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1553:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1355:12)[39m
+[90m    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1576:12)[39m
+[90m    at require (node:internal/modules/helpers:153:16)[39m
+    at Object.requirePage [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\require.js:88:12[90m)[39m
+    at [90mC:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:73
+    at async Object.loadComponentsImpl [as loadComponents] [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\load-components.js:49:26[90m)[39m
+    at async DevServer.findPageComponentsImpl [90m(C:\leetcode_maker\leetcode-clone-youtube-master\[39mnode_modules\[4mnext[24m\dist\server\next-server.js:600:36[90m)[39m

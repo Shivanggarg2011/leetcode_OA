@@ -1,0 +1,372 @@
+[
+  {
+    "id": "minimum-size-subarray-sum",
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Two Sigma",
+      "Bloomberg",
+      "Microsoft"
+    ],
+    "order": 52,
+    "isExisting": false
+  },
+  {
+    "id": "fruit-into-baskets",
+    "title": "Fruit Into Baskets",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Apple",
+      "Adobe"
+    ],
+    "order": 53,
+    "isExisting": false
+  },
+  {
+    "id": "max-consecutive-ones-iii",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Airbnb",
+      "Amazon",
+      "ByteDance"
+    ],
+    "order": 54,
+    "isExisting": false
+  },
+  {
+    "id": "find-all-anagrams-in-a-string",
+    "title": "Find All Anagrams in a String",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Meta",
+      "Two Sigma"
+    ],
+    "order": 55,
+    "isExisting": false
+  },
+  {
+    "id": "longest-substring-with-at-most-two-distinct-characters",
+    "title": "Longest Substring with At Most Two Distinct Characters",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Pinterest",
+      "Adobe",
+      "Netflix"
+    ],
+    "order": 56,
+    "isExisting": false
+  },
+  {
+    "id": "longest-substring-with-at-most-k-distinct-characters",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Yahoo",
+      "Adobe",
+      "Cisco",
+      "Google"
+    ],
+    "order": 57,
+    "isExisting": false
+  },
+  {
+    "id": "maximum-average-subarray-i",
+    "title": "Maximum Average Subarray I",
+    "difficulty": "Easy",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Meta",
+      "Microsoft",
+      "Google"
+    ],
+    "order": 58,
+    "isExisting": false
+  },
+  {
+    "id": "subarrays-with-k-different-integers",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "Hard",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Meta",
+      "Uber"
+    ],
+    "order": 59,
+    "isExisting": false
+  },
+  {
+    "id": "grumpy-bookstore-owner",
+    "title": "Grumpy Bookstore Owner",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Bloomberg",
+      "Salesforce",
+      "Two Sigma"
+    ],
+    "order": 60,
+    "isExisting": false
+  },
+  {
+    "id": "frequency-of-the-most-frequent-element",
+    "title": "Frequency of the Most Frequent Element",
+    "difficulty": "Medium",
+    "topics": [
+      "Sliding Window"
+    ],
+    "companies": [
+      "Yahoo",
+      "Microsoft",
+      "Spotify"
+    ],
+    "order": 61,
+    "isExisting": false
+  },
+  {
+    "id": "min-stack",
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Oracle",
+      "Uber"
+    ],
+    "order": 63,
+    "isExisting": false
+  },
+  {
+    "id": "evaluate-reverse-polish-notation",
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Microsoft",
+      "Bloomberg"
+    ],
+    "order": 64,
+    "isExisting": false
+  },
+  {
+    "id": "generate-parentheses",
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "ByteDance",
+      "Amazon"
+    ],
+    "order": 65,
+    "isExisting": false
+  },
+  {
+    "id": "daily-temperatures",
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Google",
+      "Microsoft",
+      "LinkedIn"
+    ],
+    "order": 66,
+    "isExisting": false
+  },
+  {
+    "id": "car-fleet",
+    "title": "Car Fleet",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Amazon",
+      "Salesforce"
+    ],
+    "order": 67,
+    "isExisting": false
+  },
+  {
+    "id": "largest-rectangle-in-histogram",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Meta",
+      "Microsoft"
+    ],
+    "order": 68,
+    "isExisting": false
+  },
+  {
+    "id": "next-greater-element-i",
+    "title": "Next Greater Element I",
+    "difficulty": "Easy",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Bloomberg",
+      "eBay"
+    ],
+    "order": 69,
+    "isExisting": false
+  },
+  {
+    "id": "next-greater-element-ii",
+    "title": "Next Greater Element II",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Google",
+      "Amazon",
+      "PayPal",
+      "Twitter"
+    ],
+    "order": 70,
+    "isExisting": false
+  },
+  {
+    "id": "asteroid-collision",
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Goldman Sachs",
+      "Yahoo",
+      "Bloomberg",
+      "Google"
+    ],
+    "order": 71,
+    "isExisting": false
+  },
+  {
+    "id": "decode-string",
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "eBay",
+      "Atlassian",
+      "DoorDash",
+      "Meta"
+    ],
+    "order": 72,
+    "isExisting": false
+  },
+  {
+    "id": "remove-all-adjacent-duplicates-in-string",
+    "title": "Remove All Adjacent Duplicates In String",
+    "difficulty": "Easy",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "PayPal",
+      "Salesforce",
+      "Apple"
+    ],
+    "order": 73,
+    "isExisting": false
+  },
+  {
+    "id": "simplify-path",
+    "title": "Simplify Path",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Google",
+      "Netflix"
+    ],
+    "order": 74,
+    "isExisting": false
+  },
+  {
+    "id": "basic-calculator",
+    "title": "Basic Calculator",
+    "difficulty": "Hard",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "Amazon",
+      "Google"
+    ],
+    "order": 75,
+    "isExisting": false
+  },
+  {
+    "id": "online-stock-span",
+    "title": "Online Stock Span",
+    "difficulty": "Medium",
+    "topics": [
+      "Stack"
+    ],
+    "companies": [
+      "LinkedIn",
+      "Microsoft",
+      "Meta",
+      "Apple"
+    ],
+    "order": 76,
+    "isExisting": false
+  },
+  {
+    "id": "binary-search",
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "topics": [
+      "Binary Search"
+    ],
+    "companies": [
+      "Salesforce",
+      "Pinterest",
+      "Google",
+      "Netflix"
+    ],
+    "order": 78,
+    "isExisting": false
+  }
+]
